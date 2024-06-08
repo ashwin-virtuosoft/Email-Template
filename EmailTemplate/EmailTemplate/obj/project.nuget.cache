@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "Iiued2WNnwwXvby0hzn5X/o6o98Ducp3p3eJ8CLZCje4CEdpW0x3tKPN4x790kk4aubdjFP1vufQPgqlrkUMKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ashwi\\source\\repos\\EmailTemplate\\EmailTemplate\\EmailTemplate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ashwi\\.nuget\\packages\\mailsystem.net\\2.0.1\\mailsystem.net.2.0.1.nupkg.sha512",
+    "C:\\Users\\ashwi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\ashwi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ashwi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\ashwi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\ashwi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\ashwi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\ashwi\\.nuget\\packages\\system.net.mail.abstractions\\1.1.21\\system.net.mail.abstractions.1.1.21.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MailSystem.NET 2.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "MailSystem.NET",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
